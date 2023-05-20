@@ -1,0 +1,3 @@
+SRING LITERALS 
+
+- Strings are any sequence of charecters (letters, numerals, (/\#, etc)) enclosed in single or double quotes.
