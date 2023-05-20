@@ -1,0 +1,4 @@
+CONDITIONALS
+
+- Conditional statements allow us to run certain lines of code depending on whether certain conditions are met.  These statements control the flow our code is executed by the interpreter.
+- In python, the keywords for conditional statments are if, elif, and else.
