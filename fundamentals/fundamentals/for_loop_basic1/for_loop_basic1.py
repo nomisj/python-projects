@@ -22,6 +22,14 @@ for x in range(1,500001,2):
     print(sum)
 
 # Countdown by Fours - Print positive numbers starting at 2018, counting down by fours.
-
+for x in range(2018,0,-4):
+    print(x)
 
 # Flexible Counter - Set three variables: lowNum, highNum, mult. Starting at lowNum and going through highNum, print only the integers that are a multiple of mult. For example, if lowNum=2, highNum=9, and mult=3, the loop should print 3, 6, 9 (on successive lines)
+low = 2
+high = 9
+mult = 3
+
+for i in range(low,high + 1):
+    if i % mult == 0:
+        print(i)
