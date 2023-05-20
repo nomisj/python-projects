@@ -1,0 +1,26 @@
+LOOPS
+
+- If we want to iterate through numbers, we can use Python's range fuction. It can have between 1 and 3 arguments.
+
+Range with 1 argument - range(5) -- stop
+- Start: defaults to 0
+- Stop: Exclusive of 1st
+- Step: Defaults to 1
+
+Range with 2 arguments - range(5,10) -- start, stop
+- Start: Inclusive of 1st
+- Stop: Exclusive of 2nd
+- Step: Defaults to 1
+
+Range with 3 arguments - range(5,10,2) -- start, stop, step
+Start: Inclusive of 1st
+Stop: Exclusive of 2nd
+Step: Interates by 3rd
+
+NOTE - if you need to specify an increment other than +1, all three arguments are required.
+for x in range(0, 10, 2):
+    print(x)
+# output: 0, 2, 4, 6, 8
+for x in range(5, 1, -3):
+    print(x)
+# output: 5, 2
