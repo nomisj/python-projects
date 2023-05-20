@@ -1,0 +1,11 @@
+DICTONARIES
+
+- A dictionary is another mutable set type that can sotre any number of Python objects, including other set types.
+- Consists of pairs (called items) of keys and their corresponding values.
+- A dictionary is an unordered collection of objects.
+- Values are accessed using a key.
+- A dictionary can shrink or grow as needed.
+- The contents of dictionaries can be modified.
+- Dictionaries can be nested.
+- Sequence operations such as slice cannot be used with dictionaries.
+- Dictionaries are enclosed by {}
