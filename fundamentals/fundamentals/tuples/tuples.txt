@@ -1,0 +1,4 @@
+- A tuple is a container for a fixed sequence of data objects.
+- Tuples are immutable meaning they can not be changed.
+- Tuples use parentheses.
+- They are useful for representing what other languages often call records.
