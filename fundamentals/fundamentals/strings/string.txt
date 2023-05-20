@@ -1,3 +1,3 @@
-SRING LITERALS 
+STRING INTERPOLATION
 
-- Strings are any sequence of charecters (letters, numerals, (/\#, etc)) enclosed in single or double quotes.
+- We can also inject variables into our strings, which is known as string interpolation. There a few diffrent ways this can be done...
