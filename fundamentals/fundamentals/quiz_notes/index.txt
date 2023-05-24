@@ -1,0 +1,47 @@
+1. In Python, how do you declare variables?
+    number = 25
+
+2. What happens when you run this code in the Python shell: 5 + 5?
+    It will print the result of, 10
+
+3. Which choice below would produce an error if x='1' and y=2?
+    print(x+y)
+
+4. What is wrong with this code: name = Charles ?
+    ????
+
+5. How do you concatentate strings in Python?
+    'Hello' + 'World'
+
+6. How could you append the value 2 to the list x = [5,34,10,1,6]?
+    x.append(2)
+
+7. How would you print the 2nd element in this list: x= [3,11,6,9,10]:
+    print(x[1])
+
+8. In Python, how do we know where blocks of code begin and end?
+    A colon: and indentation
+
+9. True or false: An elif statement will only execute if all conditions before it have evaluated to true.
+    False. All preceeding conditions must have been false in order for an elif to execute.
+
+10. My program must repeat the same operation many times. How should I approach the problem?
+    Using a loop.
+
+11. To check whether or not variable x contains anything, how would you go about doing so?
+    ????
+
+12. The break statement means:
+    Stop execution of the loop entirely and continue to next line of code after loop block.
+
+13. The continue statement means:
+    ????
+
+14. True or False: A while loop should be used whenever possible.
+    False: while loops are when it is unclear when your loop might need to stop.
+
+15. How are List, Tuples and Dictionaries similar?
+    Access the values through their index (either key or numeric).
+
+16. Which of these statements are true about List, Tuples and Dictionaries?
+    All of the above.
