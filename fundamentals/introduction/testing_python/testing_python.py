@@ -17,3 +17,9 @@ elif(day == 'Friday'):
     print('Woohoo, time for the weekend!')
 else:
     print('Not quite there yet.')
+
+x = 1
+y = 2
+print(str(x) + str(y))
+
+name = charles
