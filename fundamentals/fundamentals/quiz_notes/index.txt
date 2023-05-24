@@ -8,7 +8,7 @@
     print(x+y)
 
 4. What is wrong with this code: name = Charles ?
-    ????
+    There is nothing wrong with the code, Charles could be the name of an exsisting variable.
 
 5. How do you concatentate strings in Python?
     'Hello' + 'World'
@@ -29,13 +29,13 @@
     Using a loop.
 
 11. To check whether or not variable x contains anything, how would you go about doing so?
-    ????
+    if not x: #do something
 
 12. The break statement means:
     Stop execution of the loop entirely and continue to next line of code after loop block.
 
 13. The continue statement means:
-    ????
+    Stop the current loop iteration and return to the top of the loop, executing as normal.
 
 14. True or False: A while loop should be used whenever possible.
     False: while loops are when it is unclear when your loop might need to stop.
