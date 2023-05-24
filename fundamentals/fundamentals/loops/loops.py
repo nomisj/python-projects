@@ -17,7 +17,7 @@ for v in my_list:
 # output: abc, 123, xyz
 
 #############################################
-# For Loops through Dictionaries
+# For Loops through Dictionaries - the iterator (k) is each of the keys of the dictionary
 my_dict = { "name": "Noelle", "language": "Python" }
 for k in my_dict:
     print(k)
