@@ -3,5 +3,18 @@ Running a python file
 2. python3 server.py (mac)
 3. server.py
 
+Creating a reusable variable Python vs. JavaScript
+- Python: x = 'input name here'
+- JavaScript: var x = 'input name here'
+
+What is the difference between mutable and immutable?
+- Mutable objects (lists[]) allows you to modify its internal state after creation.
+- Immutable objects (tuples()) disallows the ability to change the objects state after you created it.
+
+Dictionaries
+- Back in the day if you were to asl someone what a word meant you would look it up in the dictionary. 
+- A "dictionary" in python is to be thought of as the same thing. It is a list of words and definitions of key/value pairs.
+- Example: {'name': 'Melissa', 'job': 'Instructor'} - name being Melissa and definition of job being Instructor.
+
 
 
