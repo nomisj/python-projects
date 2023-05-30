@@ -3,6 +3,10 @@ Running a python file
 2. python3 server.py (mac)
 3. server.py
 
+Printing in Python vs. JavaScript
+- Python: print("Hello World!")
+- JavaScript: console.log("Hello World!")
+
 Creating a reusable variable Python vs. JavaScript
 - Python: x = 'input name here'
 - JavaScript: var x = 'input name here'
