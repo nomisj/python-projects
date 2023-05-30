@@ -19,6 +19,3 @@ Dictionaries
 - Back in the day if you were to asl someone what a word meant you would look it up in the dictionary. 
 - A "dictionary" in python is to be thought of as the same thing. It is a list of words and definitions of key/value pairs.
 - Example: {'name': 'Melissa', 'job': 'Instructor'} - name being Melissa and definition of job being Instructor.
-
-
-
