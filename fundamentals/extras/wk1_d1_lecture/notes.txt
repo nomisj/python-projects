@@ -1,0 +1,7 @@
+Running a python file
+1. python server.py
+2. python3 server.py (mac)
+3. server.py
+
+
+
