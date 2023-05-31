@@ -1,0 +1,10 @@
+- A block of code that we can run at any point of time.
+- Can be defined and called anywhere in the file.
+
+- Think of a function as a recipe. If we were preparing a meal we would:
+    1. Specify ingredients (variables) needed for the meal.
+    2. Use the actual ingredients (pass arguments) when starting (invoke a function).
+    3. We follow the instructions step by step (function) for ingredients (parameters) and prepare them.
+    4. Once the food is ready we serve it up to those that are eating. (return)
+
+- The advantages of functions are reducing the duplication of code, breaking down complex problems into simpler pieces, and improving clarity of code.
