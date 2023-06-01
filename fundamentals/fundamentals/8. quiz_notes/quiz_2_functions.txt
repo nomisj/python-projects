@@ -1,0 +1,11 @@
+1. How do you declare a function in Python?
+- 
+
+2. Functions should ALWAYS return a value:
+- 
+
+3. True or False: A function call is equal to whatever that function returns.
+- 
+
+4. What is a function?
+- 
