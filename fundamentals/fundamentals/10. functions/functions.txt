@@ -16,4 +16,4 @@ PARAMETERS AND ARGUMENTS
 - We define the input of functions using parameters. Functions can have parameters as we need, including 0.
 
 RETURNING VALUES
-- It is very important to remember the following: a function is equal to whatever that function returns. 
+- It is very important to remember the following: a function is equal to whatever that function returns.
