@@ -8,3 +8,12 @@
     4. Once the food is ready we serve it up to those that are eating. (return)
 
 - The advantages of functions are reducing the duplication of code, breaking down complex problems into simpler pieces, and improving clarity of code.
+
+SYNTAX
+- The def keyword signifies the declaration of a function. This indicates that the following code is a function and assigns a name to that function, so we can call it later. Parameters are inputs the function is expecting and appear inside the parenthesis that follow the function name.
+
+PARAMETERS AND ARGUMENTS 
+- We define the input of functions using parameters. Functions can have parameters as we need, including 0.
+
+RETURNING VALUES
+- It is very important to remember the following: a function is equal to whatever that function returns. 
