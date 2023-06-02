@@ -1,14 +1,17 @@
 1. How do you declare a function in Python?
-- 
+- def function_name():
 
 2. Functions should ALWAYS return a value:
-- 
+- False. Return values are optional.
 
 3. True or False: A function call is equal to whatever that function returns.
-- 
+- True a return value is the value that remains after the functions block of code has completed.
 
 4. What is a function?
-- 
+- b, c, and d: a block of code designed to execute a specific task, function can be said to take in raw materials and return a finished product, and should be used any time a set of code is to be reused.
 
 5. What is the difference between a parameter and argument?
-- 
+- a and d: an argument is passed in when a function is called.
+
+6. Why use a function?
+- a and b: we can reuse code and we can try to improve clarity by modularizing code for individual repeatable tasks.
