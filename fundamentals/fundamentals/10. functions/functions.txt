@@ -1,5 +1,6 @@
 - A block of code that we can run at any point of time.
 - Can be defined and called anywhere in the file.
+- To define a function in Python you use the (df) keyword.
 
 - Think of a function as a recipe. If we were preparing a meal we would:
     1. Specify ingredients (variables) needed for the meal.
